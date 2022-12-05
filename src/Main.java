@@ -154,7 +154,7 @@ public class Main {
         }
 
         private static void ifSemFlecha() {
-            int mes = 9;
+            int mes = 8;
             if (mes == 1) {
                 System.out.println("Janeiro");
             } else if (mes == 2) {
@@ -182,7 +182,6 @@ public class Main {
             } else {
             System.out.println("Mês indefinido");
             }
-
         }
 
         private static void ifFerias() {
@@ -293,14 +292,6 @@ public class Main {
             } */
             }
         }
-
-
-
-
-
-
-
-
 
     }
 
